@@ -18,7 +18,10 @@ name = demo111
 description = A user permissions and roles
 core = 7.x
 package = Moduledev
-
+name = demo111
+description = A user permissions and roles
+core = 7.x
+package = Moduledev
 
 
 
