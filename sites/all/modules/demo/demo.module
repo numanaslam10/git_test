@@ -1,0 +1,15 @@
+<?php
+
+function demo_permission() {
+    return array(
+        'administer my module' => array(
+            'title' => t('Users Permission'),
+            'description' => t('Perform permissions on random users'),
+        ),
+    );
+}
+
+
+
+
+
