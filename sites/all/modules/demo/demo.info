@@ -8,10 +8,15 @@ core = 7.x
 package = Moduledev
 name = demo
 description = A user permissions and roles
+<<<<<<< HEAD
 core = 7.1
 package = Moduledev
 
 
+=======
+core = 7.x
+package = Moduledev
+>>>>>>> 4217165813709234b0816676ba12564fa4be8fa8
 
 
 
